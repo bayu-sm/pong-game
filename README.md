@@ -1,2 +1,2 @@
 # pong-game
-Tes github
+Multiplatform support
